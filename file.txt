@@ -1,0 +1,24 @@
+# This is comment line
+# Create Points
+5+2+3*7*5-2+3+5
+
+POINT
+1 10 20 
+2 20 90
+
+# Traverse Points
+POINT TRVS
+3 2 100 N-20-30-60.58-E
+
+# Alignment
+
+# Profile
+
+# Cross Slope
+
+
+POINT1 = [100, 200.56];
+POINT2 = POINT1 TRVS 300 [N,20,30,40.67,E];
+1..58
+....
+_PROJECT
